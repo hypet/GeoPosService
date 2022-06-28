@@ -75,6 +75,8 @@ Tech stack: Micronaut 3.4.1, H2 DB, JUnit 5, Mockito, Flyway.
 
 `./gradlew run`
 
+Service will be available at http://localhost:8080/ 
+
 ### Run tests
 
 `./gradlew test`
